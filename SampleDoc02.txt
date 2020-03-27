@@ -1,3 +1,5 @@
-Hi, this is a DevOps training.
+Hi, this is Victor and you're enrolled in this DevOps training.
 
-This is the first modification of this text file.
+This is the second modification of this text file.
+
+We're making changes to this file using nano.
