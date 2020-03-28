@@ -1,0 +1,5 @@
+Hi, this is a DevOps training.
+
+This is the first modification of this text file.
+Making changes to the file.
+Making changes to see git diff in action
